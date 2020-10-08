@@ -28,6 +28,16 @@ for (let i = 0; i < cipherAlphabet.length; i++) {
 }
 fs.writeFileSync('mapping.txt', solutionMapping);
 
+
+// Assemble the empty mapping, so it can be filled out easily on a piece of paper
+let solutionMappingEmpty = 'Ciphertext -> Klartext\n'
+for (let i = 0; i < cipherAlphabet.length; i++) {
+    const line = cipherAlphabet[i] + ' -> __';
+    solutionMappingEmpty += line + '\n';
+}
+fs.writeFileSync('mappingEmpty.txt', solutionMappingEmpty);
+
+
 // now, encrypt both texts with the mapping
 let ciphersolutionText = encrypt(solutionText);
 let cipherhintText = encrypt(hintText);

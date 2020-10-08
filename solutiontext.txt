@@ -1,8 +1,7 @@
 herzlichen glueckwunsch zur hochzeit
-
 der code lautet
-00) groesste einstellige zahl mit basis 10
-01) teil nie durch diese zahl
-10) 11) hoch zwei
-11) aller guten dinge sind
+groesste einstellige zahl mit basis 10
+teil nie durch diese zahl
+vierte stelle hoch zwei
+aller guten dinge sind
 liebe gruesse und alles gute
