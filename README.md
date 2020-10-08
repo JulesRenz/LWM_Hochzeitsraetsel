@@ -22,7 +22,9 @@ This software takes two textfiles, "hinttext.txt" and "solutiontext.txt", primit
 - encrypt the **hintText** with the mapping and output as **cipherhinttext.txt**
 - encrypt the **solutionText** with the mapping and output as **ciphersolutiontext.txt**
 
-
+## building and running
+- `npm install`
+- `node hochzeit.js`
 
 
 
