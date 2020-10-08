@@ -1,9 +1,8 @@
-herzlichen
-glueckwunsch
-zur hochzeit
+herzlichen glueckwunsch zur hochzeit
+
 der code lautet
 00) groesste einstellige zahl mit basis 10
 01) teil nie durch diese zahl
 10) 11) hoch zwei
 11) aller guten dinge sind
-beste gruesse
+liebe gruesse und alles gute
